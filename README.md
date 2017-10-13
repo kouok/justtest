@@ -7,3 +7,5 @@
 我在服务器端更新。在本地拉下来
 
 git@github.com:kouok/justtest.git
+
+已经开通了权限
